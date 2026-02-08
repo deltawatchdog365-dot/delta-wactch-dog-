@@ -1,3 +1,18 @@
 {
-  "TEST001": true
+  "TEST001": {
+    "enabled": true,
+    "customer": "Amit Store",
+    "mobile": "9876543210",
+    "whatsapp": "9876543210",
+    "dvr_ip": "192.168.1.10",
+    "installed_at": "2026-02-08"
+  },
+  "TEST002": {
+    "enabled": false,
+    "customer": "Rohit Office",
+    "mobile": "9123456789",
+    "whatsapp": "9123456789",
+    "dvr_ip": "192.168.1.20",
+    "installed_at": "2026-02-05"
+  }
 }
